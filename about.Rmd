@@ -8,3 +8,16 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+#### I'm **Max Xu** and I am from White Oaks Secondary School
+## About the Project
+#### My project named *Fuel Efficiency and Weight* takes car data and graphs it
+### Goals
+* Find Correlation  
+  + No Correlation
+* Learn
+
+### "This is data science"  
+~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
